@@ -1,4 +1,4 @@
-# fcumtest: Fourier CUSUM Cointegration Test
+# FCUSUM: Fourier CUSUM Cointegration Test
 
 ## Overview
 
